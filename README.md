@@ -1,5 +1,7 @@
 # taxinfo
 
+This project has only one jupyter notebook and has all the analysis required in a single file. You have to refer to the notebook aap_hw1_s21_sklearn_justin.ipynb to look into all the models created to analyse  PoliticalParty. 
+
 Information on using this cookiecutter
 
 Development workflows
